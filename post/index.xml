@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mick&#39;s Blog</title>
-    <link>https://example.com/post/</link>
+    <link>mockingbird48763.github.io/post/</link>
     <description>Recent content in Posts on Mick&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="mockingbird48763.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HTML筆記(01) - 初始程式碼</title>
-      <link>https://example.com/p/html-001/</link>
+      <link>mockingbird48763.github.io/p/html-001/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/html-001/</guid>
+      <guid>mockingbird48763.github.io/p/html-001/</guid>
       <description>結構 HTML 架構圖 程式碼 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;#34;zh-TW&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;!-- 這是標題 --&amp;gt; &amp;lt;title&amp;gt;HTML練習&amp;lt;/title&amp;gt; &amp;lt;!-- mate 元素 --&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;!-- 網站描述 --&amp;gt; &amp;lt;meta name=&amp;#34;description&amp;#34; co</description>
     </item>
     
     <item>
       <title>Chinese Test</title>
-      <link>https://example.com/p/test-chinese/</link>
+      <link>mockingbird48763.github.io/p/test-chinese/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/test-chinese/</guid>
+      <guid>mockingbird48763.github.io/p/test-chinese/</guid>
       <description>正文测试 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://example.com/p/markdown-syntax-guide/</link>
+      <link>mockingbird48763.github.io/p/markdown-syntax-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/markdown-syntax-guide/</guid>
+      <guid>mockingbird48763.github.io/p/markdown-syntax-guide/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://example.com/p/rich-content/</link>
+      <link>mockingbird48763.github.io/p/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/rich-content/</guid>
+      <guid>mockingbird48763.github.io/p/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
@@ -47,28 +47,28 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/p/placeholder-text/</link>
+      <link>mockingbird48763.github.io/p/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/placeholder-text/</guid>
+      <guid>mockingbird48763.github.io/p/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/p/math-typesetting/</link>
+      <link>mockingbird48763.github.io/p/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/math-typesetting/</guid>
+      <guid>mockingbird48763.github.io/p/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/p/emoji-support/</link>
+      <link>mockingbird48763.github.io/p/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/emoji-support/</guid>
+      <guid>mockingbird48763.github.io/p/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
