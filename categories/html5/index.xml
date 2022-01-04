@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML5 on Mick&#39;s Blog</title>
+    <link>https://example.com/categories/html5/</link>
+    <description>Recent content in HTML5 on Mick&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/html5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML筆記(01) - 初始程式碼</title>
+      <link>https://example.com/p/html-001/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/p/html-001/</guid>
+      <description>結構 HTML 架構圖 程式碼 &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;#34;zh-TW&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;!-- 這是標題 --&amp;gt; &amp;lt;title&amp;gt;HTML練習&amp;lt;/title&amp;gt; &amp;lt;!-- mate 元素 --&amp;gt; &amp;lt;meta charset=&amp;#34;utf-8&amp;#34;&amp;gt; &amp;lt;!-- 網站描述 --&amp;gt; &amp;lt;meta name=&amp;#34;description&amp;#34; co</description>
+    </item>
+    
+  </channel>
+</rss>
