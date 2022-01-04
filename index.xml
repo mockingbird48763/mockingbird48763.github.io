@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Mick&#39;s Blog</title>
-        <link>mockingbird48763.github.io/</link>
+        <link>https://mockingbird48763.github.io/</link>
         <description>Recent content on Mick&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
-        <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="mockingbird48763.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mockingbird48763.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>HTML筆記(01) - 初始程式碼</title>
-        <link>mockingbird48763.github.io/p/html-001/</link>
+        <link>https://mockingbird48763.github.io/p/html-001/</link>
         <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
         
-        <guid>mockingbird48763.github.io/p/html-001/</guid>
-        <description>&lt;img src="/cover/html_cover.jpg" alt="Featured image of post HTML筆記(01) - 初始程式碼" /&gt;&lt;h3 id=&#34;結構&#34;&gt;結構&lt;/h3&gt;
+        <guid>https://mockingbird48763.github.io/p/html-001/</guid>
+        <description>&lt;img src="https://mockingbird48763.github.io/cover/html_cover.jpg" alt="Featured image of post HTML筆記(01) - 初始程式碼" /&gt;&lt;h3 id=&#34;結構&#34;&gt;結構&lt;/h3&gt;
 &lt;p&gt;&lt;figure 
 	
 		class=&#34;gallery-image&#34; 
@@ -20,11 +20,11 @@
 			flex-grow: 208; 
 			flex-basis: 500px&#34;
 	&gt;
-	&lt;a href=&#34;mockingbird48763.github.io/mockingbird48763.github.io/p/html-001/html.png&#34; data-size=&#34;1920x920&#34;&gt;
-		&lt;img src=&#34;mockingbird48763.github.io/mockingbird48763.github.io/p/html-001/html.png&#34;
+	&lt;a href=&#34;https://mockingbird48763.github.io/p/html-001/html.png&#34; data-size=&#34;1920x920&#34;&gt;
+		&lt;img src=&#34;https://mockingbird48763.github.io/p/html-001/html.png&#34;
 			width=&#34;1920&#34;
 			height=&#34;920&#34;
-			srcset=&#34;mockingbird48763.github.io/mockingbird48763.github.io/p/html-001/html_hufb59fdc55dbac53fe0e6341f25d84481_118241_480x0_resize_box_3.png 480w, mockingbird48763.github.io/mockingbird48763.github.io/p/html-001/html_hufb59fdc55dbac53fe0e6341f25d84481_118241_1024x0_resize_box_3.png 1024w&#34;
+			srcset=&#34;https://mockingbird48763.github.io/p/html-001/html_hufb59fdc55dbac53fe0e6341f25d84481_118241_480x0_resize_box_3.png 480w, https://mockingbird48763.github.io/p/html-001/html_hufb59fdc55dbac53fe0e6341f25d84481_118241_1024x0_resize_box_3.png 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;HTML 架構圖&#34;&gt;
 	&lt;/a&gt;
